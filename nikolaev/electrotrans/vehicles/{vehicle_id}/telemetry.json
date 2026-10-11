@@ -1,0 +1,16 @@
+{
+  "v_id": 3001,
+  "timestamp": "2026-10-11T19:50:00Z",
+  "metrics": {
+    "speed": 42.00,
+    "soc": 28.5,
+    "mass": 18375,
+    "inertia_j": 150000.0
+  },
+  "fdl_status": {
+    "k_sn": 0.945,
+    "range_left_km": 18.4,
+    "wires_connected": false,
+    "inerter_fault": false
+  }
+}
